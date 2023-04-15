@@ -1,12 +1,4 @@
-"# shopping-cart-backend" 
-"# shopping-cart-backend" 
-"# shopping-cart-backend" 
-"# shopping-cart-backend" 
-"# shopping-cart-backend" 
-"# shopping-cart-backend" 
-"# cart-backend" 
-"# cart-backend" 
-"# cart-backend" 
+
 "# authentication-with-nodejs" 
 "# authentication-with-nodejs" 
 "# authentication-with-nodejs" 
